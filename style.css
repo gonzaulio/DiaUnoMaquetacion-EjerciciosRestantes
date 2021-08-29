@@ -1,0 +1,88 @@
+#ladoizq {
+    background-color: #011627;
+    color: white;
+    float: left;
+    height: 100%;
+    width: 30%;
+    font-family: 'Glory', sans-serif;
+    margin-right: 0px;
+}
+
+#julioperfil {
+    height: 60%;
+    width: 60%;
+    padding-top: 10px;
+    padding-left: 20%;
+}
+
+#ladoizq h1 {
+    text-align: center;
+    font-size: 47px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+#ladoizq h3 {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 0px;
+}
+
+#ladoizq h4 {
+    padding-left: 20px;
+    font-size: 25px;
+    margin-bottom: 0px;
+    background-color: #FF0022;
+    color: white;
+}
+
+#ladoizq ul {
+    font-size: 20px;
+}
+
+#ladoderecho {
+    float: left;
+    height: 100%;
+    width: 45%;
+    font-family: 'Glory', sans-serif;
+    border-style: solid;
+    border-color: #011627;
+}
+
+#ladoderecho h4 {
+    font-size: 25px;
+    background-color: #011627;
+    color: white;
+    margin-bottom: 0px;
+    padding-left: 30px;
+    padding-top: 0px;
+    margin-top: 20px;
+}
+
+#ladoderecho ul {
+    font-size: 18px;
+    margin-top: 15px;
+    padding-bottom: 0px;
+}
+
+#ladoderecho p {
+    margin-top: 2px;
+    margin-bottom: 9px;
+    padding-bottom: 0px;
+    padding-left: 30px;
+}
+
+#parrafoperfil {
+    font-size: 18px;
+    padding-top: 10px;
+}
+
+#enlaceaficiones {
+    color: #011627;
+    font-size: 25px;
+    margin: 2px;
+    text-align: center;
+    width: 75%;
+    font-family: 'Glory', sans-serif;
+    float: left;
+}

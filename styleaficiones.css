@@ -1,0 +1,73 @@
+body {
+    background-image: url(background.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+header {
+    font-family: 'Glory', sans-serif;
+    color: white;
+    font-size: 20px;
+    margin-bottom: 70px;
+}
+
+#secciontecno {
+    font-family: 'Glory', sans-serif;
+    color: white;
+    float: left;
+    width: 18%;
+    text-align: center;
+    padding: 10px;
+}
+
+#seccionsurf {
+    font-family: 'Glory', sans-serif;
+    color: white;
+    float: left;
+    width: 18%;
+    text-align: center;
+    padding: 10px;
+}
+
+#seccionvideojuego {
+    font-family: 'Glory', sans-serif;
+    color: white;
+    float: left;
+    width: 18%;
+    text-align: center;
+    padding: 10px;
+}
+
+#seccionhiking {
+    font-family: 'Glory', sans-serif;
+    color: white;
+    float: left;
+    width: 18%;
+    text-align: center;
+    padding: 10px;
+}
+
+#julioaficiones {
+    float: left;
+    width: 18%;
+    padding: 0px;
+    margin: 0px;
+}
+
+#julioaficionesfoto {
+    height: 300px;
+    width: 300px;
+}
+
+#volvercurriculum {
+    font-family: 'Glory', sans-serif;
+    color: white;
+    float: left;
+    width: 50%;
+}
+
+a {
+    color: white;
+}
